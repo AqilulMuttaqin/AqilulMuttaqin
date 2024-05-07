@@ -4,10 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aqilulmuttaqin&label=Profile%20views&color=0e75b6&style=flat" alt="aqilulmuttaqin" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
-
-- 💬 Ask me about **PHP**
-
 - 📫 How to reach me **aqilulmuttaqin16@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
